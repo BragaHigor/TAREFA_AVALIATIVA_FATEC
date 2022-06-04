@@ -1,0 +1,143 @@
+*{
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+}
+
+header{
+    background-color: darkgrey;
+    padding: 50px 0;
+}
+
+.cabecalho{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.img{
+    width: 200px;
+}
+
+.titulo{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.titulo li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.titulo li:hover{
+    border-color: #ffffff;
+}
+
+.titulo li:active{
+    border-color: #ffffff;    
+}
+
+.titulo li:hover h2{
+    font-size: 34px;
+}
+
+.titulo h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.botaocontent button{
+    margin: 10px;
+}
+
+.botao-alan{
+    background-color: #ff0000;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.botao-linus{
+    background-color: #07ff83;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.botao-maurice{
+    background-color: #0b07ff;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.botao-home{
+    background-color: #000000;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.alan{
+    text-align: center;
+}
+
+p{
+    display: inline-block;
+    text-align: center;
+    padding: 30px 20px;
+    font-size: 25px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+footer{
+    text-align: center;
+    background: url(/imagem/bg.jpg);
+    padding: 40px 0;
+}
+
+.Copyright {
+    color: white;
+    font-size: 13px;
+    margin-top: 20px;
+
+}
+
+
+
+
+    
