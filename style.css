@@ -126,7 +126,7 @@ p{
 
 footer{
     text-align: center;
-    background: url(/imagem/bg.jpg);
+    background: url(./imagem/bg.jpg);
     padding: 40px 0;
 }
 
